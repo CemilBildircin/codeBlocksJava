@@ -11,7 +11,6 @@ public class MethodPractice1 {
         }
 
     }
-
     public static void printNumTo100Even(){
         for (int i = 0; i < 100; i++) {
             if (i%2!=0){
