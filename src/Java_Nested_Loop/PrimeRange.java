@@ -26,13 +26,10 @@ public class PrimeRange {
                 if (i % j == 0) {
                     count++;
                 }
-
             } // end of inner loop
-
             if (count == 0) {
                 System.out.print(i + ", ");
             }
-
         }
     }
 }
